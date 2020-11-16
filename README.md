@@ -15,7 +15,7 @@ Create a Python Application which asks the user for their zip code or city. The 
 
 
 # Summary of Skills
-I used the pyhton environment to develop an application. I also used the open weather map API to connect with my python application to retrieve weather information.
+I used the python environment to develop an application. I also used the open weather map API to connect with my python application to retrieve weather information.
 
 
 
